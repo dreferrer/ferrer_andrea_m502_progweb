@@ -1,2 +1,6 @@
 # Local Netlify folder
 .netlify
+.dist
+.parcel-cache
+.node_modules
+.package-lock.json
